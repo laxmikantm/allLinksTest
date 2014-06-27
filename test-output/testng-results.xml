@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[HomeWorking!! & URL=http://newtours.demoaut.com/mercurywelcome.php?osCsid=ff0262bce852f5d9460abac996843b93]]>
+    </line>
+    <line>
+      <![CDATA[FlightsWorking!! & URL=http://newtours.demoaut.com/index.php]]>
+    </line>
+    <line>
+      <![CDATA[HotelsWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+    </line>
+    <line>
+      <![CDATA[Car RentalsWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+    </line>
+    <line>
+      <![CDATA[CruisesWorking!! & URL=http://newtours.demoaut.com/mercurycruise.php]]>
+    </line>
+    <line>
+      <![CDATA[DestinationsWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+    </line>
+    <line>
+      <![CDATA[VacationsWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+    </line>
+    <line>
+      <![CDATA[SIGN-ONWorking!! & URL=http://newtours.demoaut.com/mercurysignon.php]]>
+    </line>
+    <line>
+      <![CDATA[REGISTERWorking!! & URL=http://newtours.demoaut.com/mercuryregister.php]]>
+    </line>
+    <line>
+      <![CDATA[SUPPORTWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+    </line>
+    <line>
+      <![CDATA[CONTACTWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+    </line>
+    <line>
+      <![CDATA[your destinationWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+    </line>
+    <line>
+      <![CDATA[featured vacation destinationsWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+    </line>
+    <line>
+      <![CDATA[Register hereWorking!! & URL=http://newtours.demoaut.com/mercuryregister.php]]>
+    </line>
+    <line>
+      <![CDATA[Business Travel @ About.comWorking!! & URL=http://businesstravel.about.com/?PM=78_101_T&cob=home]]>
+    </line>
+    <line>
+      <![CDATA[Salon TravelWorking!! & URL=http://www.salon.com/travel/]]>
+    </line>
+    <line>
+      <![CDATA[Driver closed]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="127474" started-at="2014-06-20T02:23:30Z" finished-at="2014-06-20T02:25:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="127474" started-at="2014-06-20T02:23:30Z" finished-at="2014-06-20T02:25:37Z">
+      <class name="allLinksTestPackage.AllLinkTestClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:allLinksTestPackage.AllLinkTestClass@107ec20]" name="setUp" is-config="true" duration-ms="33512" started-at="2014-06-20T03:23:30Z" finished-at="2014-06-20T03:24:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="actualTest()[pri:0, instance:allLinksTestPackage.AllLinkTestClass@107ec20]" name="actualTest" duration-ms="92810" started-at="2014-06-20T03:24:03Z" finished-at="2014-06-20T03:25:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[HomeWorking!! & URL=http://newtours.demoaut.com/mercurywelcome.php?osCsid=ff0262bce852f5d9460abac996843b93]]>
+            </line>
+            <line>
+              <![CDATA[FlightsWorking!! & URL=http://newtours.demoaut.com/index.php]]>
+            </line>
+            <line>
+              <![CDATA[HotelsWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+            </line>
+            <line>
+              <![CDATA[Car RentalsWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+            </line>
+            <line>
+              <![CDATA[CruisesWorking!! & URL=http://newtours.demoaut.com/mercurycruise.php]]>
+            </line>
+            <line>
+              <![CDATA[DestinationsWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+            </line>
+            <line>
+              <![CDATA[VacationsWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+            </line>
+            <line>
+              <![CDATA[SIGN-ONWorking!! & URL=http://newtours.demoaut.com/mercurysignon.php]]>
+            </line>
+            <line>
+              <![CDATA[REGISTERWorking!! & URL=http://newtours.demoaut.com/mercuryregister.php]]>
+            </line>
+            <line>
+              <![CDATA[SUPPORTWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+            </line>
+            <line>
+              <![CDATA[CONTACTWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+            </line>
+            <line>
+              <![CDATA[your destinationWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+            </line>
+            <line>
+              <![CDATA[featured vacation destinationsWorking!! & URL=http://newtours.demoaut.com/mercuryunderconst.php]]>
+            </line>
+            <line>
+              <![CDATA[Register hereWorking!! & URL=http://newtours.demoaut.com/mercuryregister.php]]>
+            </line>
+            <line>
+              <![CDATA[Business Travel @ About.comWorking!! & URL=http://businesstravel.about.com/?PM=78_101_T&cob=home]]>
+            </line>
+            <line>
+              <![CDATA[Salon TravelWorking!! & URL=http://www.salon.com/travel/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- actualTest -->
+        <test-method status="PASS" signature="closure()[pri:0, instance:allLinksTestPackage.AllLinkTestClass@107ec20]" name="closure" is-config="true" duration-ms="1105" started-at="2014-06-20T03:25:36Z" finished-at="2014-06-20T03:25:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- allLinksTestPackage.AllLinkTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
