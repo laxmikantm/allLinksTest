@@ -92,9 +92,16 @@ public class AllLinkTestClass {
 			}
 			//Screenshots
 			
-			File srcFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
-			FileUtils.copyFile(srcFile, new File("c:\\selenium-java-2.42.2\\Temp\\screenshot"+j+".png"));
 			
+			try{
+			FileUtils.copyFile(srcFile, new File("c:\\selenium-java-2.42.2\\Temp\\screenshot"+j+".png"));
+			}
+			catch(NoSuchFileException e)
+			{
+				System.out.println("Unable to access folder for Snapshots");
+				Reporter.log("Unable to access folder for Snapshots");
+				
+			}
 			driver.navigate().back();
 			
 		}//end for
